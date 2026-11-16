@@ -1,0 +1,16 @@
+{
+"version":3,
+"rules": [
+  {
+  "domain_suffix": [
+    "steampowered.com",
+    "steamcommunity.com",
+    "steamgames.com",
+    "steamusercontent.com",
+    "steamcontent.com",
+    "steamstatic.com",
+    "akamaihd.net"
+      ]
+    }
+  ]
+}

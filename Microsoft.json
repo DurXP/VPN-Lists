@@ -1,0 +1,21 @@
+{
+"version":3,
+"rules": [
+  {
+  "domain_suffix": [
+    "microsoft.com",
+    "live.com",
+    "office365.com",
+    "office.com",
+    "windows.com",
+    "xbox.com",
+    "visualstudio.com",
+    "msn.com",
+    "bing.com",
+    "skype.com",
+    "office.com",
+    "azure.com"
+      ]
+    }
+  ]
+}
